@@ -18,21 +18,15 @@ gadenbuie,docker-snowplowr,gadenbuie/docker-snowplowr,0,1,0,0,FALSE,https://gith
 gadenbuie,DragDrop,gadenbuie/DragDrop,0,0,0,0,FALSE,https://github.com/gadenbuie/DragDrop,0,NA,NA,NA,NA,NA,NA
 gadenbuie,drake-intro,gadenbuie/drake-intro,14,2,1,5,FALSE,https://github.com/gadenbuie/drake-intro,14,NA,NA,NA,NA,NA,NA
 gadenbuie,drake-rstudio-jobs-example,gadenbuie/drake-rstudio-jobs-example,5,1,0,0,FALSE,https://github.com/gadenbuie/drake-rstudio-jobs-example,5,NA,NA,NA,NA,NA,NA
-gadenbuie,epoxy,gadenbuie/epoxy,105,3,6,6,FALSE,https://github.com/gadenbuie/epoxy,105,24298397,https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2203350393,success,"Add bechdel demo dataset (#24)
-
-Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",82423e684b3f162457773dcc079195dc6e5554b2
-gadenbuie,epoxy,gadenbuie/epoxy,105,3,6,6,FALSE,https://github.com/gadenbuie/epoxy,105,24298398,https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2203350371,success,"Add bechdel demo dataset (#24)
-
-Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",82423e684b3f162457773dcc079195dc6e5554b2
-gadenbuie,epoxy,gadenbuie/epoxy,105,3,6,6,FALSE,https://github.com/gadenbuie/epoxy,105,24298399,https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2203350376,success,"Add bechdel demo dataset (#24)
-
-Co-authored-by: gadenbuie <gadenbuie@users.noreply.github.com>",82423e684b3f162457773dcc079195dc6e5554b2
-gadenbuie,epoxy,gadenbuie/epoxy,105,3,6,6,FALSE,https://github.com/gadenbuie/epoxy,105,24312177,https://github.com/gadenbuie/epoxy/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2203360953,success,Built site for epoxy: 0.0.2.9000@82423e6,d8e971408e6412d8225a3d8c223dd0c5c6980b46
+gadenbuie,epoxy,gadenbuie/epoxy,107,3,4,6,FALSE,https://github.com/gadenbuie/epoxy,107,24298397,https://github.com/gadenbuie/epoxy/workflows/Package%20Maintenance/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2214396658,success,Add `epoxy_style` chunk option (#31),a13a60449b553cb4c07036aac8ac8c8c06c89c06
+gadenbuie,epoxy,gadenbuie/epoxy,107,3,4,6,FALSE,https://github.com/gadenbuie/epoxy,107,24298398,https://github.com/gadenbuie/epoxy/workflows/R-CMD-check/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2214396649,success,Add `epoxy_style` chunk option (#31),a13a60449b553cb4c07036aac8ac8c8c06c89c06
+gadenbuie,epoxy,gadenbuie/epoxy,107,3,4,6,FALSE,https://github.com/gadenbuie/epoxy,107,24298399,https://github.com/gadenbuie/epoxy/workflows/pkgdown/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2214396647,failure,Add `epoxy_style` chunk option (#31),a13a60449b553cb4c07036aac8ac8c8c06c89c06
+gadenbuie,epoxy,gadenbuie/epoxy,107,3,4,6,FALSE,https://github.com/gadenbuie/epoxy,107,24312177,https://github.com/gadenbuie/epoxy/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/epoxy/actions/runs/2213957661,success,Remove preview/pr25 (GitHub Actions),6f46e0def1396da435a780a876e62070d13abdcf
 gadenbuie,ermoji,gadenbuie/ermoji,25,1,0,1,FALSE,https://github.com/gadenbuie/ermoji,25,NA,NA,NA,NA,NA,NA
 gadenbuie,explore-roc-pr,gadenbuie/explore-roc-pr,0,0,0,0,FALSE,https://github.com/gadenbuie/explore-roc-pr,0,NA,NA,NA,NA,NA,NA
 gadenbuie,extra-awesome-xaringan,gadenbuie/extra-awesome-xaringan,4,1,0,3,FALSE,https://github.com/gadenbuie/extra-awesome-xaringan,4,NA,NA,NA,NA,NA,NA
 gadenbuie,fwiffer,gadenbuie/fwiffer,3,1,0,0,FALSE,https://github.com/gadenbuie/fwiffer,3,NA,NA,NA,NA,NA,NA
-gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/2212138915,success,Update github-metrics.svg - [Skip GitHub Action],81d295e53ac4b4e4453c70deef0696aea65681e7
+gadenbuie,gadenbuie,gadenbuie/gadenbuie,4,1,0,6,FALSE,https://github.com/gadenbuie/gadenbuie,4,4986439,https://github.com/gadenbuie/gadenbuie/workflows/Metrics/badge.svg,https://github.com/gadenbuie/gadenbuie/actions/runs/2215397924,success,Update github-metrics.svg - [Skip GitHub Action],5c68447dc8b8ce5744e327a4727d23ac05346383
 gadenbuie,gadenbuie.github.io,gadenbuie/gadenbuie.github.io,0,1,0,0,FALSE,https://github.com/gadenbuie/gadenbuie.github.io,0,NA,NA,NA,NA,NA,NA
 gadenbuie,garrickadenbuie-com,gadenbuie/garrickadenbuie-com,8,1,26,5,FALSE,https://github.com/gadenbuie/garrickadenbuie-com,8,NA,NA,NA,NA,NA,NA
 gadenbuie,gathertweet,gadenbuie/gathertweet,9,1,3,3,FALSE,https://github.com/gadenbuie/gathertweet,9,NA,NA,NA,NA,NA,NA
@@ -40,7 +34,7 @@ gadenbuie,gentle-ggplot2,gadenbuie/gentle-ggplot2,77,3,0,20,FALSE,https://github
 gadenbuie,getcitations,gadenbuie/getcitations,13,1,1,4,FALSE,https://github.com/gadenbuie/getcitations,13,NA,NA,NA,NA,NA,NA
 gadenbuie,ggpomological,gadenbuie/ggpomological,314,9,11,21,FALSE,https://github.com/gadenbuie/ggpomological,314,NA,NA,NA,NA,NA,NA
 gadenbuie,ggweekly,gadenbuie/ggweekly,97,3,0,11,FALSE,https://github.com/gadenbuie/ggweekly,97,NA,NA,NA,NA,NA,NA
-gadenbuie,grkgdown,gadenbuie/grkgdown,0,1,0,0,FALSE,https://github.com/gadenbuie/grkgdown,0,21593707,https://github.com/gadenbuie/grkgdown/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/grkgdown/actions/runs/2179858049,success,replace roboto slab with outfit,7e542f096033149c4f7d0074360ab46f9db83fe3
+gadenbuie,grkgdown,gadenbuie/grkgdown,0,1,0,0,FALSE,https://github.com/gadenbuie/grkgdown,0,21593707,https://github.com/gadenbuie/grkgdown/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/grkgdown/actions/runs/2213922473,success,adjust text code size,bdab37d1759c6da50ae65c59a5964bcc4e957052
 gadenbuie,grkstyle,gadenbuie/grkstyle,56,2,2,11,FALSE,https://github.com/gadenbuie/grkstyle,56,NA,NA,NA,NA,NA,NA
 gadenbuie,intro-to-git-for-scientists,gadenbuie/intro-to-git-for-scientists,11,1,0,2,FALSE,https://github.com/gadenbuie/intro-to-git-for-scientists,11,NA,NA,NA,NA,NA,NA
 gadenbuie,isg-2018,gadenbuie/isg-2018,0,1,0,0,FALSE,https://github.com/gadenbuie/isg-2018,0,NA,NA,NA,NA,NA,NA
@@ -89,7 +83,7 @@ gadenbuie,rstudio-ide-tips-demo,gadenbuie/rstudio-ide-tips-demo,7,1,0,2,FALSE,ht
 gadenbuie,rstudioAddinFriend,gadenbuie/rstudioAddinFriend,5,1,0,1,FALSE,https://github.com/gadenbuie/rstudioAddinFriend,5,NA,NA,NA,NA,NA,NA
 gadenbuie,rstudioconf-notes,gadenbuie/rstudioconf-notes,2,2,0,0,FALSE,https://github.com/gadenbuie/rstudioconf-notes,2,NA,NA,NA,NA,NA,NA
 gadenbuie,shinyComponents,gadenbuie/shinyComponents,41,2,5,4,FALSE,https://github.com/gadenbuie/shinyComponents,41,NA,NA,NA,NA,NA,NA
-gadenbuie,shinyThings,gadenbuie/shinyThings,22,1,1,4,FALSE,https://github.com/gadenbuie/shinyThings,22,NA,NA,NA,NA,NA,NA
+gadenbuie,shinyThings,gadenbuie/shinyThings,22,1,1,3,FALSE,https://github.com/gadenbuie/shinyThings,22,NA,NA,NA,NA,NA,NA
 gadenbuie,shrtcts,gadenbuie/shrtcts,93,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,2183013,https://github.com/gadenbuie/shrtcts/workflows/tic/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/2182200622,success,v0.1.2,12ef67f860ede6e8989abbaeca9147cc73cc3877
 gadenbuie,shrtcts,gadenbuie/shrtcts,93,1,3,4,FALSE,https://github.com/gadenbuie/shrtcts,NA,17584737,https://github.com/gadenbuie/shrtcts/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/shrtcts/actions/runs/2182221128,success,"Deploy from Github Actions build 2182200622 [ci skip]
 
@@ -101,12 +95,12 @@ gadenbuie,speedDate,gadenbuie/speedDate,1,1,0,1,FALSE,https://github.com/gadenbu
 gadenbuie,sprinkles,gadenbuie/sprinkles,14,1,6,1,FALSE,https://github.com/gadenbuie/sprinkles,14,NA,NA,NA,NA,NA,NA
 gadenbuie,sqrrl,gadenbuie/sqrrl,0,1,1,1,FALSE,https://github.com/gadenbuie/sqrrl,0,NA,NA,NA,NA,NA,NA
 gadenbuie,starwarsdb,gadenbuie/starwarsdb,34,1,0,2,FALSE,https://github.com/gadenbuie/starwarsdb,NA,2967946,https://github.com/gadenbuie/starwarsdb/workflows/tic/badge.svg,https://github.com/gadenbuie/starwarsdb/actions/runs/2183144564,success,Update {tic} badge in README (#5),b6339df02e2a2394120ddf36d74b746d1f141f33
-gadenbuie,status,gadenbuie/status,27,3,1,5,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/2212264148,failure,[status] 2022-04-22 12:16:30 UTC,9a0de0c1802d01342dccaae72b7a27cc6c7f1e34
-gadenbuie,status,gadenbuie/status,27,3,1,5,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/2207664456,success,[status] 2022-04-22 12:16:30 UTC,9a0de0c1802d01342dccaae72b7a27cc6c7f1e34
+gadenbuie,status,gadenbuie/status,27,3,1,5,FALSE,https://github.com/gadenbuie/status,27,4331149,https://github.com/gadenbuie/status/workflows/Render%20Status/badge.svg,https://github.com/gadenbuie/status/actions/runs/2215529141,NA,[status] gadenbuie/epoxy 2022-04-24 03:59:06 UTC,a08a87b88ca7d621ab53f88e86f395fc52c15a83
+gadenbuie,status,gadenbuie/status,27,3,1,5,FALSE,https://github.com/gadenbuie/status,27,16409201,https://github.com/gadenbuie/status/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/status/actions/runs/2214409707,success,[status] gadenbuie/epoxy 2022-04-24 03:59:06 UTC,a08a87b88ca7d621ab53f88e86f395fc52c15a83
 gadenbuie,synamyn,gadenbuie/synamyn,10,1,0,0,FALSE,https://github.com/gadenbuie/synamyn,10,NA,NA,NA,NA,NA,NA
 gadenbuie,ten-thousand-functions,gadenbuie/ten-thousand-functions,3,0,0,0,FALSE,https://github.com/gadenbuie/ten-thousand-functions,3,NA,NA,NA,NA,NA,NA
 gadenbuie,tidy-tuesday,gadenbuie/tidy-tuesday,0,1,0,0,FALSE,https://github.com/gadenbuie/tidy-tuesday,0,NA,NA,NA,NA,NA,NA
-gadenbuie,tidyexplain,gadenbuie/tidyexplain,631,27,12,113,FALSE,https://github.com/gadenbuie/tidyexplain,631,NA,NA,NA,NA,NA,NA
+gadenbuie,tidyexplain,gadenbuie/tidyexplain,632,27,12,113,FALSE,https://github.com/gadenbuie/tidyexplain,632,NA,NA,NA,NA,NA,NA
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,12,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,12,10540278,https://github.com/gadenbuie/tidyjs-r/workflows/.github/workflows/update-tidyjs.yaml/badge.svg,https://github.com/gadenbuie/tidyjs-r/actions/runs/2181804781,success,v2.4.5,9efea655ee07664a42729d8c5e4aa729fdf12633
 gadenbuie,tidyjs-r,gadenbuie/tidyjs-r,12,1,0,0,FALSE,https://github.com/gadenbuie/tidyjs-r,12,18254585,https://github.com/gadenbuie/tidyjs-r/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/tidyjs-r/actions/runs/1737559638,success,v2.4.5,9efea655ee07664a42729d8c5e4aa729fdf12633
 gadenbuie,tiktokrmd,gadenbuie/tiktokrmd,17,1,0,0,FALSE,https://github.com/gadenbuie/tiktokrmd,17,NA,NA,NA,NA,NA,NA
@@ -130,9 +124,9 @@ gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,432,9,8,25,FALSE,https://githu
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,432,9,8,25,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,15493308,https://github.com/gadenbuie/xaringanthemer/workflows/pkgdown/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1671399795,success,docs: poppins for headings,10d67c898f40175f944054a34236b69753c0f7f9
 gadenbuie,xaringanthemer,gadenbuie/xaringanthemer,432,9,8,25,FALSE,https://github.com/gadenbuie/xaringanthemer,NA,17226403,https://github.com/gadenbuie/xaringanthemer/workflows/pages-build-deployment/badge.svg,https://github.com/gadenbuie/xaringanthemer/actions/runs/1671407567,success,Built site for xaringanthemer: 0.4.1@10d67c8,315c37ddda6200f3ffdea3bc80f449f94530e7cc
 gadenbuie,yule-rstudio,gadenbuie/yule-rstudio,21,2,0,9,FALSE,https://github.com/gadenbuie/yule-rstudio,21,NA,NA,NA,NA,NA,NA
-rstudio-education,gradethis,rstudio/gradethis,140,17,39,44,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2209711420,success,Fix `fail(hint = TRUE)` giving multiple hints for multiple solutions (#309),7d6ed1ce9fa5c3f10b4c627e8150a75b2cecb0ac
-rstudio-education,gradethis,rstudio/gradethis,140,17,39,44,FALSE,https://github.com/rstudio/gradethis,NA,17088127,https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2209711440,success,Fix `fail(hint = TRUE)` giving multiple hints for multiple solutions (#309),7d6ed1ce9fa5c3f10b4c627e8150a75b2cecb0ac
-rstudio-education,gradethis,rstudio/gradethis,140,17,39,44,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2209711416,success,Fix `fail(hint = TRUE)` giving multiple hints for multiple solutions (#309),7d6ed1ce9fa5c3f10b4c627e8150a75b2cecb0ac
+rstudio-education,gradethis,rstudio/gradethis,141,17,39,44,FALSE,https://github.com/rstudio/gradethis,NA,3340437,https://github.com/rstudio/gradethis/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2209711420,success,Fix `fail(hint = TRUE)` giving multiple hints for multiple solutions (#309),7d6ed1ce9fa5c3f10b4c627e8150a75b2cecb0ac
+rstudio-education,gradethis,rstudio/gradethis,141,17,39,44,FALSE,https://github.com/rstudio/gradethis,NA,17088127,https://github.com/rstudio/gradethis/workflows/Package%20Maintenance/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2209711440,success,Fix `fail(hint = TRUE)` giving multiple hints for multiple solutions (#309),7d6ed1ce9fa5c3f10b4c627e8150a75b2cecb0ac
+rstudio-education,gradethis,rstudio/gradethis,141,17,39,44,FALSE,https://github.com/rstudio/gradethis,NA,3574267,https://github.com/rstudio/gradethis/workflows/pkgdown/badge.svg,https://github.com/rstudio/gradethis/actions/runs/2209711416,success,Fix `fail(hint = TRUE)` giving multiple hints for multiple solutions (#309),7d6ed1ce9fa5c3f10b4c627e8150a75b2cecb0ac
 rstudio,learnr,rstudio/learnr,509,33,143,217,FALSE,https://github.com/rstudio/learnr,NA,531566,https://github.com/rstudio/learnr/workflows/R-CMD-check/badge.svg,https://github.com/rstudio/learnr/actions/runs/2204390311,success,"Add Chinese translation (#681)
 
 Co-authored-by: Garrick Aden-Buie <garrick@adenbuie.com>",acce7f6b00022c2f204a69d51f19be7c85ad3754
