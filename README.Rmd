@@ -2,9 +2,9 @@
 title: "GitHub Dashboard"
 output: github_document
 # provide user name to include all public, non-fork repos from the owner
-all_by_owner: gadenbuie
+all_by_owner: andrewcstewart
 # the repository where this repo exists
-status_repo: gadenbuie/status
+status_repo: andrewcstewart/gha-dashboard
 # list of repositories by owner name and repo (appear before owner's repos)
 repos:
   gadenbuie:
